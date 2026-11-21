@@ -33,19 +33,11 @@ public class StringDemo {
             else
                 specialChars++;
         }
-
         System.out.println("OUTPUT IS: ");
         System.out.println("upperCaseLetters: "+upperCaseLetters);
         System.out.println("lowerCaseLetters: "+lowerCaseLetters);
         System.out.println("digits: "+digits);
         System.out.println("specialChars: "+specialChars);
-
-
-
-
-
-
-
 
 
     }
